@@ -11,6 +11,10 @@ Requirements
 To run the system, download the following files from Mengting's repository:
 
 goodreads_books.json.gz: Detailed book graph (~2GB, ~2.3M books).
+
 goodreads_interactions.csv: Complete user-book interactions (~4.1GB).
+
 book_id_map.csv: Book IDs reconstructed by joining this file.
+
 Place these files in the same folder as the provided Python scripts. Once set up, the system will be fully operational.
+
